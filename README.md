@@ -2,6 +2,8 @@
 
 Image containing the jacoco javaagent to use as a volume container.
 
+Add actions to build ARM and AMD images
+
 # Usage (docker-compose example jboss/wildfly)
 
 ```yaml
